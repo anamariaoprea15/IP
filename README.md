@@ -27,7 +27,7 @@ Care sunt aspectele majore de care are nev de aplicatia noastra pt a functiona (
  
 Forward engineering:
 putem folosi diagrame de clase pentru a genera cod (in mare)
-Dintr-o diagrama de clase (ex cea de sapt trecuta dar imbunatatita - 10 clase cu metode) si din aceste clase sa generam cod in java
+Dintr-o diagrama de clase si din aceste clase sa generam cod in java
 pe care apoi sa-l corectam in cazul in care avem nevoie, si sa-l compilam.
 Rezultatul compilarii vor fi niste fisiere .class, si asta e task-ul 2.
 Foarte important in Java.
